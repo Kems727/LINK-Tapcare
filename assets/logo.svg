@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TapCare sample logo">
+  <!-- SAMPLE LOGO: replace this file (assets/logo.svg) with your own logo. Keep the same file name. -->
+  <rect width="64" height="64" rx="16" fill="#0B4FCC"/>
+  <rect x="12" y="20" width="32" height="24" rx="5" fill="#fff"/>
+  <rect x="12" y="25" width="32" height="5" fill="#0B4FCC" opacity=".18"/>
+  <path d="M25 29v10M20 34h10" stroke="#0B4FCC" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M42 26a9 9 0 0 1 0 16M47 22a15 15 0 0 1 0 24" fill="none" stroke="#9CC3FF" stroke-width="3" stroke-linecap="round"/>
+</svg>
